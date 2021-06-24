@@ -41,7 +41,7 @@
 	<br><br>
 
 	<span class="black">
-		This localhost program is coded by @Kontiki007 on Github.<br>Before using, remember to change the value of $dir in "operate note pages.php" to the path on your own computer.<br>Some styles are pre-set in css.css
+		This localhost program is coded by @Kontiki007 on Github.<br>Before using, remember to change the value of $dir in "operate note pages.php" to the path on your own computer.<br>Some styles are pre-set in css.css<br>Make sure to install PHP and Apache on your computer before using this.
 	</span>
 </body>
 </html>
