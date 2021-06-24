@@ -1,0 +1,25 @@
+.blue {
+	color: #007bff;
+	font-family: Helvetica;
+	font-size: 1.4rem;
+}
+
+.black {
+	color: black;
+	font-family: Helvetica;
+	font-size: 1rem;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+.col-8 {
+	margin-left: 8%;
+	margin-top: 3%;
+}
+
+mark {
+	background-color: #ffff45;
+}
