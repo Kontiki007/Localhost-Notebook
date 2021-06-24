@@ -5,7 +5,11 @@
 		9.2 Phloem is what?!
 	</h3>
 	<mark>Hey, what can you expect from an example page?</mark>
+	<br>
+	<br>
 	<span class="black">
-		Try this out!
+		Cute fdog:
 	</span>
+
+	<img src="images/fdog.JPG" alt="fdog" width="100px" height="100px">
 </div>
